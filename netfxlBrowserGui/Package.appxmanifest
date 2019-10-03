@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="net.fxl.Browser"
+            Version="0.1"
+            Publisher="fxl" />
+  <Properties>
+    <DisplayName>fxl browser</DisplayName>
+    <PublisherDisplayName>fxl Browser</PublisherDisplayName>
+    <Logo>logo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion></OSMinVersion>
+    <OSMaxVersionTested></OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="" />
+  </Resources>
+  <Applications>
+    <Application Id="" StartPage="">
+      <VisualElements DisplayName="" Description=""
+           Logo="" SmallLogo=""
+           ForegroundText="" BackgroundColor="">
+         <SplashScreen Image="" />
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>
